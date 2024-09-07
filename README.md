@@ -9,7 +9,7 @@
 
 ## Установка
 ```bash
-git clone <URL>
+git clone <https://github.com/zzentr/python.git>
 cd <todo_bot_by_zentr>
 python -m venv venv
 pip install -r requirements.txt
